@@ -65,7 +65,7 @@ const router = express.Router();
  *       200:
  *         description: Successfully created a new movie booking.
  *       400:
- *         description: Movie slot or seats data not provided by the user.
+ *         description: Movie slot or seats data not provided by the frontend.
  *       500:
  *         description: Internal server error send 500 status code and error message.
  */
